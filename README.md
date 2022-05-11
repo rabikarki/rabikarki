@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rabikarki
+- 👀 I’m interested in Cooding.
+- 🌱 I’m currently learning C programming.
+- 💞️ I’m looking to collaborate on Google.
+- 📫 My contact Email: rabikarki202@gmail.com
